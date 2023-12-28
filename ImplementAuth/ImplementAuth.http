@@ -1,0 +1,6 @@
+@ImplementAuth_HostAddress = http://localhost:5115
+
+GET {{ImplementAuth_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
